@@ -1,1 +1,45 @@
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Gradle
+.gradle/
+build/
+*/build/
+local.properties
+gradle.properties.bak
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files (never commit these)
+*.jks
+*.keystore
+keystore.properties
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# Dependencies generated at build time
+app/release/
+dist/
 
