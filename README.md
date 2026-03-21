@@ -314,3 +314,24 @@ Read the CONTRIBUTING.md file. It explains how to report a bug, suggest a featur
 AetherSuite is released under the MIT License. See the LICENSE file for the full text.
 
 This means you can use, copy, modify, merge, publish, distribute, and sublicense this software freely, as long as you keep the copyright notice.
+
+#
+
+## Compatible with de-Googled Android
+
+AetherSuite is built on AOSP and depends on zero Google services. It installs manually via USB without any app store. This makes it a natural fit for privacy-focused phones and operating systems.
+
+Tested and compatible environments :
+
+| OS / Device | Notes |
+|---|---|
+| GrapheneOS | Fully compatible, recommended |
+| CalyxOS | Fully compatible |
+| /e/OS (Murena) | Fully compatible |
+| LineageOS | Fully compatible |
+| Punkt MC03 (AphyOS) | Android-based, sideload supported |
+| Jolla (Sailfish OS) | Android app layer supported |
+| Fairphone + /e/OS | Fully compatible |
+| Stock Android (AOSP) | Fully compatible |
+
+If you are running a de-Googled phone and AetherSuite works on your device, feel free to open an issue to add your configuration to this list.
