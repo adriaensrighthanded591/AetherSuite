@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Fichiers temporaires MMS dans le cache interne -->
+    <cache-path name="mms_cache" path="." />
+    <!-- Fichiers dans le stockage interne -->
+    <files-path name="internal_files" path="." />
+</paths>

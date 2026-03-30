@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Icône AetherSMS — avant-plan adaptatif.
+  "A" stylisé avec une onde WiFi intégrée — représente le message et la connectivité.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Cercle de fond (zone sûre adaptative = centre 72×72 sur 108×108) -->
+    <!-- L'arrière-plan est géré par ic_launcher_background.xml -->
+
+    <!-- Bulle de message stylisée -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+          M54,22
+          C38,22 25,33 25,47
+          C25,56 30,64 38,69
+          L35,86
+          L52,74
+          C52.6,74.05 53.3,74.1 54,74.1
+          C70,74.1 83,63.1 83,49.05
+          C83,35 70,22 54,22 Z" />
+
+    <!-- Lettre A centrale (couleur violet) -->
+    <path
+        android:fillColor="#6B4EFF"
+        android:pathData="
+          M44,65 L49,50 L54,38 L59,50 L64,65
+          L60,65 L57.5,57.5 L50.5,57.5 L48,65 Z
+          M51.5,54.5 L56.5,54.5 L54,47 Z" />
+
+    <!-- Onde WiFi en haut à droite de la bulle (connectivité) -->
+    <!-- Arc extérieur -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#6B4EFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 66,30 A 8,8 0 0 1 74,38" />
+
+    <!-- Arc moyen -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#6B4EFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 66,34 A 4,4 0 0 1 70,38" />
+
+    <!-- Point WiFi -->
+    <path
+        android:fillColor="#6B4EFF"
+        android:pathData="M 67.5,38.5 A 1.5,1.5 0 1 1 67.5,38.499 Z" />
+
+</vector>

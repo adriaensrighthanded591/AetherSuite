@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Thème de base obligatoire (héritage Material) -->
+    <style name="Theme.AetherSMS" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <!-- Splash Screen -->
+    <style name="Theme.AetherSMS.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0D0C12</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.AetherSMS</item>
+    </style>
+</resources>

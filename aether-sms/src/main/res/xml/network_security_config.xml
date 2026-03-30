@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Les passerelles MMS (MMSC) de certains opérateurs utilisent encore du HTTP
+  en clair sur le réseau cellulaire. Cette config autorise le trafic cleartext
+  UNIQUEMENT pour les domaines opérateurs MMS (pas pour internet général).
+  Le reste du trafic reste en HTTPS.
+-->
+<network-security-config>
+    <!-- Trafic général : HTTPS uniquement -->
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+
+    <!-- Passerelles MMS opérateurs France (HTTP autorisé sur réseau cell) -->
+    <domain-config cleartextTrafficPermitted="true">
+        <!-- Free Mobile -->
+        <domain includeSubdomains="true">mms.free.fr</domain>
+        <!-- SFR -->
+        <domain includeSubdomains="true">mms1.sfr.fr</domain>
+        <domain includeSubdomains="true">mms2.sfr.fr</domain>
+        <!-- Orange -->
+        <domain includeSubdomains="true">mms.orange.fr</domain>
+        <!-- Bouygues -->
+        <domain includeSubdomains="true">mms.bouyguestelecom.fr</domain>
+        <!-- Opérateurs génériques MVNO -->
+        <domain includeSubdomains="true">mmsc.cingular.com</domain>
+        <domain includeSubdomains="true">mms.t-mobile.com</domain>
+        <!-- Plage locale réseau MMS (IP réservées opérateurs) -->
+        <domain includeSubdomains="true">192.168.0.0</domain>
+        <domain includeSubdomains="true">10.0.0.0</domain>
+    </domain-config>
+</network-security-config>

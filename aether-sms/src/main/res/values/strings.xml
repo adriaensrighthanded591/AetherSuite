@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AetherSMS</string>
+    <string name="new_message">Nouveau message</string>
+    <string name="settings">Paramètres</string>
+    <string name="send">Envoyer</string>
+    <string name="cancel">Annuler</string>
+    <string name="delete">Supprimer</string>
+    <string name="search">Rechercher</string>
+    <string name="attach">Joindre</string>
+    <string name="voice_input">Saisie vocale</string>
+    <string name="paste">Coller</string>
+    <string name="message_hint">Message…</string>
+    <string name="no_conversations">Aucune conversation</string>
+    <string name="biometric_title">AetherSMS</string>
+    <string name="biometric_subtitle">Déverrouiller pour accéder à vos messages</string>
+</resources>
